@@ -1,0 +1,7 @@
+﻿Output of 12_1.py:
+Enter a positive integer:12
+12! = 479001600
+Output of 12_2.py:
+Catalan Number: C(100)=896519947090131678185430741499021921911623568450622849024
+Output of 12_3.py:
+The Greatest Common Divisor of 108 and 192 is 12

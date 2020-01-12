@@ -1,0 +1,114 @@
+-----------------------------------------------------------
+Demo Output: 
+Binding Energy of a nucleus with Z = 28 and A = 58 is 493.94 MeV
+Binding Energy per nucleon: 8.52 MeV
+-----------------------------------------------------------
+Enter Atomic number of nucleus: 56
+Enter Mass number of nucleus: 108
+
+Binding Energy is 795.07 MeV
+Binding Energy per nucleon: 7.36 MeV
+Most stable nucleus with Z = 1 has A = 2
+Most stable nucleus with Z = 2 has A = 4
+Most stable nucleus with Z = 3 has A = 6
+Most stable nucleus with Z = 4 has A = 8
+Most stable nucleus with Z = 5 has A = 10
+Most stable nucleus with Z = 6 has A = 12
+Most stable nucleus with Z = 7 has A = 15
+Most stable nucleus with Z = 8 has A = 16
+Most stable nucleus with Z = 9 has A = 19
+Most stable nucleus with Z = 10 has A = 20
+Most stable nucleus with Z = 11 has A = 23
+Most stable nucleus with Z = 12 has A = 24
+Most stable nucleus with Z = 13 has A = 27
+Most stable nucleus with Z = 14 has A = 28
+Most stable nucleus with Z = 15 has A = 31
+Most stable nucleus with Z = 16 has A = 32
+Most stable nucleus with Z = 17 has A = 35
+Most stable nucleus with Z = 18 has A = 36
+Most stable nucleus with Z = 19 has A = 39
+Most stable nucleus with Z = 20 has A = 41
+Most stable nucleus with Z = 21 has A = 43
+Most stable nucleus with Z = 22 has A = 46
+Most stable nucleus with Z = 23 has A = 47
+Most stable nucleus with Z = 24 has A = 50
+Most stable nucleus with Z = 25 has A = 51
+Most stable nucleus with Z = 26 has A = 54
+Most stable nucleus with Z = 27 has A = 55
+Most stable nucleus with Z = 28 has A = 58
+Most stable nucleus with Z = 29 has A = 59
+Most stable nucleus with Z = 30 has A = 62
+Most stable nucleus with Z = 31 has A = 63
+Most stable nucleus with Z = 32 has A = 66
+Most stable nucleus with Z = 33 has A = 69
+Most stable nucleus with Z = 34 has A = 70
+Most stable nucleus with Z = 35 has A = 73
+Most stable nucleus with Z = 36 has A = 74
+Most stable nucleus with Z = 37 has A = 77
+Most stable nucleus with Z = 38 has A = 78
+Most stable nucleus with Z = 39 has A = 81
+Most stable nucleus with Z = 40 has A = 82
+Most stable nucleus with Z = 41 has A = 85
+Most stable nucleus with Z = 42 has A = 86
+Most stable nucleus with Z = 43 has A = 89
+Most stable nucleus with Z = 44 has A = 92
+Most stable nucleus with Z = 45 has A = 93
+Most stable nucleus with Z = 46 has A = 96
+Most stable nucleus with Z = 47 has A = 97
+Most stable nucleus with Z = 48 has A = 100
+Most stable nucleus with Z = 49 has A = 101
+Most stable nucleus with Z = 50 has A = 104
+Most stable nucleus with Z = 51 has A = 105
+Most stable nucleus with Z = 52 has A = 108
+Most stable nucleus with Z = 53 has A = 111
+Most stable nucleus with Z = 54 has A = 112
+Most stable nucleus with Z = 55 has A = 115
+Most stable nucleus with Z = 56 has A = 116
+Most stable nucleus with Z = 57 has A = 119
+Most stable nucleus with Z = 58 has A = 120
+Most stable nucleus with Z = 59 has A = 123
+Most stable nucleus with Z = 60 has A = 124
+Most stable nucleus with Z = 61 has A = 127
+Most stable nucleus with Z = 62 has A = 130
+Most stable nucleus with Z = 63 has A = 131
+Most stable nucleus with Z = 64 has A = 134
+Most stable nucleus with Z = 65 has A = 135
+Most stable nucleus with Z = 66 has A = 138
+Most stable nucleus with Z = 67 has A = 139
+Most stable nucleus with Z = 68 has A = 142
+Most stable nucleus with Z = 69 has A = 143
+Most stable nucleus with Z = 70 has A = 146
+Most stable nucleus with Z = 71 has A = 149
+Most stable nucleus with Z = 72 has A = 150
+Most stable nucleus with Z = 73 has A = 153
+Most stable nucleus with Z = 74 has A = 154
+Most stable nucleus with Z = 75 has A = 157
+Most stable nucleus with Z = 76 has A = 158
+Most stable nucleus with Z = 77 has A = 161
+Most stable nucleus with Z = 78 has A = 164
+Most stable nucleus with Z = 79 has A = 165
+Most stable nucleus with Z = 80 has A = 168
+Most stable nucleus with Z = 81 has A = 169
+Most stable nucleus with Z = 82 has A = 172
+Most stable nucleus with Z = 83 has A = 173
+Most stable nucleus with Z = 84 has A = 176
+Most stable nucleus with Z = 85 has A = 179
+Most stable nucleus with Z = 86 has A = 180
+Most stable nucleus with Z = 87 has A = 183
+Most stable nucleus with Z = 88 has A = 184
+Most stable nucleus with Z = 89 has A = 187
+Most stable nucleus with Z = 90 has A = 190
+Most stable nucleus with Z = 91 has A = 191
+Most stable nucleus with Z = 92 has A = 194
+Most stable nucleus with Z = 93 has A = 195
+Most stable nucleus with Z = 94 has A = 198
+Most stable nucleus with Z = 95 has A = 199
+Most stable nucleus with Z = 96 has A = 202
+Most stable nucleus with Z = 97 has A = 205
+Most stable nucleus with Z = 98 has A = 206
+Most stable nucleus with Z = 99 has A = 209
+Most stable nucleus with Z = 100 has A = 210
+
+
+Max Binding Energy per nucleon is at Z =  24
+﻿

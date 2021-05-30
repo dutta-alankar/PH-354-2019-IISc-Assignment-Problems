@@ -13,8 +13,8 @@ R1 = 1
 R2 = 4
 R3 = 3
 R4 = 2
-I0 = 3e-3 #mA
-VT = 0.05
+I0 = 3e-6 #3nA
+VT = 0.05 #diode emission/ideality factor=1.93 (VT=0.0259V)
 
 def func(I):
     I1, I2, I3, I4 = I[0], I[1], I[2], I[3]
@@ -57,12 +57,10 @@ print("ID = %.3f mA"%ID)
 print("Voltage across diode (FB) = %.2f V"%(-(I_new[0]*R1-I_new[2]*R3)))
 
 """
-Output
-
-I1 = 1.687 mA
-I2 = 0.828 mA
-I3 = 0.657 mA
-I4 = 1.515 mA
-ID = 0.859 mA
-Voltage across diode (FB) = 0.28 V
+I1 = 1.553 mA
+I2 = 0.862 mA
+I3 = 0.723 mA
+I4 = 1.415 mA
+ID = 0.691 mA
+Voltage across diode (FB) = 0.62 V
 """
